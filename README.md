@@ -10,3 +10,6 @@ provide an insight into the language's origin, how it spread, and how it dominat
 modern world as we know it today. The results show that languages from colonists in
 the western empires have dominated the modern world because of their deep influence
 in the countries they colonized
+
+
+Shiny Dashboard Link: https://frobblyxyz.shinyapps.io/offlang/
